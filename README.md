@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- 
-![alt text](https://github.com/ReshmaAdbulRazack/reshmarazack01.github.io/blob/main/images/github.jpeg)
+![alt text](https://github.com/ReshmaAdbulRazack/reshmarazack01.github.io/blob/ReshmaAdbulRazack-patch-1/github.jpeg)
 <!-- 
 
 [![wordPress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat-square&logo=Wordpress&logoColor=white&link=https://sajanrajtd.wordpress.com/)](https://sajanrajtd.wordpress.com/)
