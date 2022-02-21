@@ -1,8 +1,16 @@
-### Hi there 👋
+
+
+###  👋   👋 👋👋  👋  👋  👋  👋 👋 👋 👋IT IS LOVELY TO HAVE YOU AMONG US... HI 👋 👋 👋 👋 👋 👋 👋 👋 👋 👋 👋
+
+### Always do your best even on the littile things, Because anything worth doing is worth doing right. 
 
 ![alt text](https://github.com/ReshmaAdbulRazack/ReshmaAdbulRazack/blob/main/github.jpeg)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reshma-razack-5414268b/)](https://www.linkedin.com/in/reshma-razack-5414268b/)
 [![Gmail Badge](https://img.shields.io/badge/-reshmarazack01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reshmarazack01@gmail.com)](reshmarazack01@gmail.com)
+
+### Reshma Abdul Razack 
+---
+
 
 <!-- [![wordPress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat-square&logo=Wordpress&logoColor=white&link=https://sajanrajtd.wordpress.com/)](https://sajanrajtd.wordpress.com/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajanraj-t-d-723226111/)](https://www.linkedin.com/in/sajanraj-t-d-723226111/)
@@ -13,7 +21,10 @@
 <!-- ---
 ### Hola Amigo👋
 --- -->
-I am Reshma, a Computer Science and Engineering :student:. I am a Programmer, and always excited to learn new stuffs. 
+I am Reshma Abdul Razack, you can call me Reshma, a Computer Science Researcher :student:. I am a Programmer, and always excited to learn new stuffs. 
+---
+
+
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
@@ -25,3 +36,6 @@ Programmer (noun): A machine that turns coffee into code.
 
 
 ----------------------------------------------
+
+
+[![Reshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReshmaAdbulRazack&show_icons=true&theme=radical)](https://github.com/ReshmaAdbulRazack/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshmaAdbulRazack&layout=compact&theme=radical)](https://github.com/ReshmaAdbulRazack/github-readme-stats)
