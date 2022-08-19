@@ -1,6 +1,6 @@
 
 
-###  👋   👋 👋👋  👋  👋  👋  👋 👋 👋 👋IT IS LOVELY TO HAVE YOU AMONG US... HI 👋 👋 👋 👋 👋 👋 👋 👋 👋 👋 👋
+###  👋 👋 👋 👋 👋 👋 👋 👋 👋 👋 👋IT IS LOVELY TO HAVE YOU AMONG US... HI 👋 👋 👋 👋 👋 👋 👋 👋 👋 👋 👋
 
 ### Always do your best even on the littile things, Because anything worth doing is worth doing right. 
 
