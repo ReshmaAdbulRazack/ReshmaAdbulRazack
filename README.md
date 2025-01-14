@@ -37,19 +37,17 @@ Programmer (noun): A machine that turns coffee into code.
 
 ----------------------------------------------
 
-### Profile Vsit
 
-![Profile Visit Counter](https://your-counter-image-url-here)
 
 
 ## Profile Visits
 
 ![Profile Visit Counter](https://hitwebcounter.com/counter/counter.php?page=18436927&style=0005&nbdigits=5&type=page&initCount=0)
                                   
-                
-
 ## Profile Visits
-![Profile Visit Counter](https://your-counter-image-url-here)
+
+[![Profile Visit Counter](https://hitwebcounter.com/counter/counter.php?page=18436927&style=0005&nbdigits=5&type=page&initCount=0)](https://www.hitwebcounter.com)
+
 
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=reshmarazack&color=blue)
