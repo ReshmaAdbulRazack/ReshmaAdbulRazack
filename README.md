@@ -41,6 +41,10 @@ Programmer (noun): A machine that turns coffee into code.
 
 ![Profile Visit Counter](https://your-counter-image-url-here)
 
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=18436883&style=0049&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>     
+
 ## Profile Visits
 ![Profile Visit Counter](https://your-counter-image-url-here)
 
